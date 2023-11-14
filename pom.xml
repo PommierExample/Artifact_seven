@@ -12,6 +12,9 @@
             <email>minecraftdude.aka.mcd+pommier@gmail.com</email>
         </developer>
     </developers>
+    <scm>
+        <url>git@github.com:PommierExample/Artifact_seven.git</url>
+    </scm>
     <dependencies>
         <dependency>
             <groupId>org.pommier</groupId>
