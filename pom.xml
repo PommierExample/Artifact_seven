@@ -17,6 +17,12 @@
     </scm>
     <dependencies>
         <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13.1</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
             <groupId>org.pommier</groupId>
             <artifactId>Artifact_two</artifactId>
             <version>2.3.4</version>
