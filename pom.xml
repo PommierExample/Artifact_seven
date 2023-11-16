@@ -25,7 +25,7 @@
         <dependency>
             <groupId>org.pommier</groupId>
             <artifactId>Artifact_two</artifactId>
-            <version>2.3.4</version>
+            <version>2.3.6</version>
         </dependency>
         <dependency>
             <groupId>org.pommier</groupId>
